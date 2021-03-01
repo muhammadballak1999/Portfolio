@@ -1,4 +1,5 @@
 <template>
+  <!-- Portfolio -->
   <div class="parent">
     <!-- Introduction section -->
     <q-card class="my-card">
